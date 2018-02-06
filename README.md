@@ -1,2 +1,2 @@
-# ArchLinuxLearing
-A Repo for My Arch Linux Learning
+# 关于
+等我有空就整理。。。Orz
